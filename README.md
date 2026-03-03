@@ -5,9 +5,9 @@
 <span style="color:#f38ba8">Lazyyy</span>
 
 <br>
-<a href="https://tinysweet.qzz.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-tinysweet.qzz.io-89b4fa?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<p align="center">
+<a href="https://tinysweet.qzz.io/">🌐 tinysweet.qzz.io</a>
+</p>
 
 <br>
 <p align="center">───────────────</p>
