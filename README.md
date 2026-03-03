@@ -1,4 +1,6 @@
-# <span style="color:#89b4fa">Hi there, I'm tinysweet :3</span>
+<h1 align="center">
+<span style="color:#89b4fa">Hi there, I'm tinysweet :3</span>
+</h1>
 
 <p align="center">
 <span style="color:#cdd6f4">What i do? : iOS tweaks • game mods • reverse engineering</span><br>
