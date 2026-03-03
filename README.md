@@ -3,6 +3,8 @@
 <span style="color:#cdd6f4">What i do? : iOS tweaks • game mods • reverse engineering</span><br>
 <span style="color:#a6e3a1">Langs & tools: Python • JavaScript • TypeScript • Node.js • C / C++ • Theos • IDA Pro</span><br>
 <span style="color:#f38ba8">Lazyyy</span>
+
+<br>
 <a href="https://tinysweet.qzz.io/" target="_blank">
   <img src="https://img.shields.io/badge/Website-tinysweet.qzz.io-89b4fa?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
