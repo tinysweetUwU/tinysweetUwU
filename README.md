@@ -4,6 +4,23 @@
 <span style="color:#a6e3a1">Langs & tools: Python • JavaScript • TypeScript • Node.js • C / C++ • Theos • IDA Pro</span><br>
 <span style="color:#f38ba8">Lazyyy</span>
 
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-89b4fa?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-f9e2af?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-74c7ec?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-a6e3a1?style=for-the-badge&logo=node.js&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-94e2d5?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-cba6f7?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebAssembly-f38ba8?style=for-the-badge&logo=webassembly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Theos-89dceb?style=for-the-badge&logo=apple&logoColor=black"/>
+<img src="https://img.shields.io/badge/IDA%20Pro-fab387?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reverse%20Engineering-ff5555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/iOS%20Tweaks-8aadf4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game%20Modding-f5c2e7?style=for-the-badge"/>
+</p>
+
 ---
 
 ## GitHub & Coding Activity
