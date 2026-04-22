@@ -62,18 +62,4 @@
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DDatiOSCheat?cardType=level&theme=github-dark&fontFamily=ABeeZee&preferLogin=false)
 
-<!--START_SECTION:waka-->
-
-```all
-From: 11 January 2026 - To: 10 February 2026
-
-Total Time: 22 hrs 56 mins
-
-Text          11 hrs 43 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.39 %
-JavaScript    8 hrs 43 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.53 %
-HTML          43 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.12 %
-WebAssembly   36 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.61 %
-Other         19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.43 %
-```
-
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/eafb7833-a6a9-4abc-a04a-ebe6c03e571e.svg)](https://wakatime.com/@eafb7833-a6a9-4abc-a04a-ebe6c03e571e)
