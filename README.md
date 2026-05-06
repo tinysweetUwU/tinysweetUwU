@@ -60,6 +60,6 @@
 
 ## GitHub & Coding Activity
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DDatiOSCheat?cardType=level&theme=github-dark&fontFamily=ABeeZee&preferLogin=false)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tinysweetUwU?cardType=level&theme=github-dark&fontFamily=ABeeZee&preferLogin=false)
 
 [![wakatime](https://wakatime.com/badge/user/eafb7833-a6a9-4abc-a04a-ebe6c03e571e.svg)](https://wakatime.com/@eafb7833-a6a9-4abc-a04a-ebe6c03e571e)
