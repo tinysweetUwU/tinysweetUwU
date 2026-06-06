@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Developer from Vietnam.
+  Chán rồi thì hãy ngắm tôi. :<
 </p>
 
 ## Hobby
